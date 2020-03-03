@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1575931204 source:c:\users\brumo\desktop\git\masters\assignments\systems programming\final exam problem 12\main.c
+	<SDL2/SDL.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+

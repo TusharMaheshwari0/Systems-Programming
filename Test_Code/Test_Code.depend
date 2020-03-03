@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1575587585 source:c:\users\brumo\desktop\git\masters\assignments\systems programming\test_code\main.c
+	<stdio.h>
+	<stdlib.h>
+

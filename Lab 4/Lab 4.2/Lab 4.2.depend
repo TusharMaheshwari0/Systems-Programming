@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1570819920 source:c:\users\brumo\desktop\git\masters\assignments\systems programming\lab 4.2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1572147004 source:c:\users\brumo\desktop\git\masters\assignments\systems programming\lab 4\lab 4.2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

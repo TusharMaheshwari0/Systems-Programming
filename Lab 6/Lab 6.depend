@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1574439964 source:c:\users\brumo\desktop\git\masters\assignments\systems programming\lab 6\main.c
+	<SDL2/SDL.h>
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+

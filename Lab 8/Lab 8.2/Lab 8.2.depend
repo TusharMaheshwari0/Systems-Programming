@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1575817712 source:c:\users\brumo\onedrive\desktop\git\masters\assignments\systems programming\lab 8.2\main.c
+	<SDL2/SDL.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+
+1575861765 source:c:\users\brumo\desktop\systems lab 8\lab 8.2\main.c
+	<SDL2/SDL.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+
+1575862736 source:c:\users\brumo\desktop\git\masters\assignments\systems programming\lab 8\lab 8.2\main.c
+	<SDL2/SDL.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+

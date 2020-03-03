@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1572456475 source:c:\users\brumo\onedrive\desktop\git\masters\assignments\systems programming\lab 5\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<ctype.h>
+	"dimensions.h"
+
+1572456397 c:\users\brumo\onedrive\desktop\git\masters\assignments\systems programming\lab 5\dimensions.h
+
+1572469647 source:c:\users\brumo\desktop\git\masters\assignments\systems programming\lab 5\lab 5\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<ctype.h>
+	"dimensions.h"
+
+1572468791 c:\users\brumo\desktop\git\masters\assignments\systems programming\lab 5\lab 5\dimensions.h
+
+1572466749 source:c:\users\brumo\desktop\git\masters\assignments\systems programming\lab 5\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<ctype.h>
+	"dimensions.h"
+
+1574442787 c:\users\brumo\desktop\git\masters\assignments\systems programming\lab 5\dimensions.h
+

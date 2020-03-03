@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1574704919 source:c:\users\brumo\desktop\git\masters\assignments\systems programming\lab 7\main.c
+	<SDL2/SDL.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<ctype.h>
+	"dimensions.h"
+
+1574704832 c:\users\brumo\desktop\git\masters\assignments\systems programming\lab 7\dimensions.h
+
